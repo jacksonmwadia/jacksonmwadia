@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jackson!
 
 ## 🚀 About Me
-I'm a **Software Engineer | Problem Solver | Tech Enthusiast** passionate about creating clean, efficient, and scalable software solutions. I enjoy working across various domains and technologies to bring ideas to life and solve meaningful problems.
+I'm a **Software Engineer | Qualitative Assurance/Engineer | Problem Solver | Tech Enthusiast** passionate about creating clean, efficient, and scalable software solutions. I enjoy working across various domains and technologies to bring ideas to life and solve meaningful problems.
 
 - 🌱 Currently exploring **new technologies and frameworks**
 - 🤝 Open to collaborating on **exciting projects**
